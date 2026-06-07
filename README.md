@@ -9,8 +9,3 @@ Proyectos escolares de programación, estructuras de datos y más.
 - html
 - SwiftUI
 - MySQL
-
-## Estructura de los proyectos
-- documentacion/: reportes
-- codigo/: código fuente
-- imagenes/: capturas
