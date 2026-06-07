@@ -6,7 +6,7 @@ Proyectos escolares de programación, estructuras de datos y más.
 
 ## Tecnologías utilizadas
 - php
--html
+- html
 - SwiftUI
 - MySQL
 
