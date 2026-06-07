@@ -2,7 +2,7 @@
 Diego Martinez Rodriguez
 
 ## Descripción
-Proyectos escolares de programación, estructuras de datos y más. 
+Proyectos escolar de programacion Libreria
 
 ## Tecnologías utilizadas
 - php
