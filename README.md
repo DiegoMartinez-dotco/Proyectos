@@ -8,3 +8,6 @@ Proyectos escolar de programacion Libreria
 - php
 - html
 - MySQL
+
+## Video del proyecto
+https://youtu.be/quVoYBaq0Uw?si=dQ3RRdhMmrAhjIl4
